@@ -1,4 +1,4 @@
 baseURL = 'http://tabilogu.nozamajim.repl.co/'
 languageCode = 'en-us'
 title = 'My New Tabelogu Site'
-theme = 'hugo-theme-dopetrope'
+theme = 'beautifulhugo'

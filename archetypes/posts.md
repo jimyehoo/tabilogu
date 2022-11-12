@@ -1,20 +1,16 @@
 +++
-title = "Post01"
-date = "2022-11-12T04:58:21Z"
-draft = false
-author = "Ken"
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = "{{ .Date }}"
+author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["driving", "air b&b"]
+tags = ["", ""]
+category = [""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
+draft = false
 +++
-
-
-## Hello World!
-
-This *is* **my** `first` post!
